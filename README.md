@@ -1,7 +1,7 @@
 # RNTodoApp
 React Native Todo App
 
-Hi! I created this app to become more familiar with React Native. 
+Hi! I created this ios app to become more familiar with React Native. 
 
 Technologies - React native & Firebase & a library react-native-modal-dropdown & react-navigation
 
@@ -17,8 +17,8 @@ Would you like to try out this app?
     -npm install
     -react-native run-ios. 
   
-***The firebase config has been gitignored. You'll need to ask me for this information to load this app in simulator***    
-***I have a mac and build this as an ios app.***
+***The firebase config has been gitignored. You'll need to ask me for this information to load this app in ios simulator.***    
+***This is an ios app.***
 
   
 
